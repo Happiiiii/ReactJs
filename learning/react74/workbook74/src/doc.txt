@@ -1,0 +1,3 @@
+rce -> class component
+rfce -> functional component
+rconst -> state constructor
